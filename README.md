@@ -21,10 +21,7 @@ This week's Challenge requires you to modify starter code to create an applicati
 
 Valuable tools include the following websites:
 
-https://chat.openai.com/auth/login
-    ** While this website helped me get started, I still needed to make numerous edits to coding for it to work.
-   
-    ** Thanks also to a friend of mine, "Reid", for his tutoring on JavaScript Functions
+   ** Thanks very much to a friend of mine, "Reid", for his tutoring on JavaScript Functions
 
 ---
 
