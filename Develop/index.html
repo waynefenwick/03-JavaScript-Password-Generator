@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Password Generator</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><u>Password Generator</u></h1>
+      </header>
+      <div class="card">
+        <div class="card-header">
+          <h2>To Generate a Password:</h2>
+          <p>1. Select Generate Password then, in pop-up, enter the length of the password</p>
+          <p>2. Confirm inclusion of characters (Cancel = No; Ok = Yes)</p>
+          <p>3. Select the copy button to copy your password to the clipboard</p>
+        </div>
+        <div class="card-body">
+          <textarea
+            readonly
+            id="password"
+            placeholder="Your Secure Password"
+            aria-label="Generated Password"
+          ></textarea>
+        </div>
+        <div class="card-footer">
+          <button id="generate" class="btn">Generate Password</button>
+        </div>
+        <div class="copyBtn">
+          <button id="copyBtn">Copy Password</button>
+        </div>
+        
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
