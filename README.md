@@ -12,6 +12,11 @@ This week's Challenge requires you to modify starter code to create an applicati
     ** Tweaked design of CSS
     ** Tested final product
 
+
+## View on the Web
+    https://waynefenwick.github.io/03-JavaScript-Password-Generator/
+    
+
 ## Mock-up of changes
 
 ![Password Generator.](./Assets/03-javascript-homework-demo.png)
